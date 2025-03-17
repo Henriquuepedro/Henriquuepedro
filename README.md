@@ -30,7 +30,7 @@ I'm a **Tech Lead / Senior Web Developer** with extensive experience in PHP, Jav
 
 ## 🚀 My Career Journey
 
-### **Tech Lead / Senior Web Developer**  
+### **Tech Lead | Software Engineer**  
 At my current position, I lead the development team and focus on building scalable systems and migrating applications to cloud infrastructures. I’m responsible for driving security improvements, implementing caching solutions with **Redis**, deploying microservices with **Lumen**, and managing high-demand integrations with marketplaces.
 
 - Migrated our application from **AWS** to **Oracle Cloud**.
@@ -42,6 +42,9 @@ At my current position, I lead the development team and focus on building scalab
 
 ### **Previous Experience**  
 I have built various web applications, managed teams, and contributed to the full software lifecycle, from planning to deployment. My experience includes working with **PHP**, **JavaScript**, **Laravel**, and **Vue.js**, and I have a deep understanding of database architecture, web application security, and performance optimization.
+
+### **Experience in Marketplaces & E-commerce**  
+At Full Nine, where I've been working since 2020, I specialize in **marketplace and e-commerce integrations**. I’ve developed REST and SOAP API connections for **logistics, payments, and inventory management**, ensuring real-time price and stock updates via webhooks. I also contributed to building the **Seller Center**, optimizing multi-marketplace operations and boosting efficiency.
 
 ## 🌱 What I'm Currently Learning
 
