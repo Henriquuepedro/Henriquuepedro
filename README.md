@@ -61,6 +61,20 @@ Feel free to explore my repositories, check out my code, or reach out if you'd l
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Henriquuepedro&theme=merko&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquuepedro&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="PHP" hegth="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Git" hegth="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" hegth="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="GitLab" hegth="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
+  <img align="center" alt="MySQL" hegth="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
+
 ---
 
 🔭 **Currently working on:** Improving performance and scalability for web apps, building a more robust microservices architecture, and working on client projects.  
